@@ -502,6 +502,12 @@ if (matchDomain('elmercurio.com')) {
   const adBlock = document.getElementById('ad-article-inline');
   const adHeader = document.getElementById('sticky-ad-header');
   removeDOMElement(block, adBlock, adHeader);
+} else if (matchDomain('inman.com')) {
+  const paywall = document.querySelector('div.ism-article-block.visible');
+  const content = document.querySelector('.entry-content-inner');
+
+  removeDOMElement(paywall);
+  content.style.display=style= "block"
 }
 
 function matchDomain (domains) {

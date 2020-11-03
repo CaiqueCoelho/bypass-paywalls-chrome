@@ -54,6 +54,7 @@ const defaultSites = {
   'Humo': 'humo.be',
   'Il Manifesto': 'ilmanifesto.it',
   'Inc.com': 'inc.com',
+  'Inma': 'inma.com',
   'Interest NZ': 'interest.co.nz',
   'Investors Chronicle': 'investorschronicle.co.uk',
   'La Nacion': 'lanacion.com.ar',

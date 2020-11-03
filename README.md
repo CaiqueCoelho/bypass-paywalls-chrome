@@ -79,6 +79,7 @@
 [Humo](https://www.humo.be)\
 [Il Manifesto](https://www.ilmanifesto.it)\
 [Inc.com](https://www.inc.com)\
+[Inman](https://www.inman.com/)\
 [Interest.co.nz](https://www.interest.co.nz)\
 [Investors Chronicle](https://www.investorschronicle.co.uk)
 [L'Écho](https://www.lecho.be)\
