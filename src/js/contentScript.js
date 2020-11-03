@@ -503,11 +503,13 @@ if (matchDomain('elmercurio.com')) {
   const adHeader = document.getElementById('sticky-ad-header');
   removeDOMElement(block, adBlock, adHeader);
 } else if (matchDomain('inman.com')) {
+  window.setTimeout(function () {
   const paywall = document.querySelector('div.ism-article-block.visible');
   const content = document.querySelector('.entry-content-inner');
 
   removeDOMElement(paywall);
   content.style.display=style= "block"
+  }, 700);
 }
 
 function matchDomain (domains) {
